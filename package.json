@@ -1,7 +1,7 @@
 {
-  "name": "api",
+  "name": "api_workshops",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Steps Create node project in folder:<br/> <code>npm init</code> (go through the steps)",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js",
