@@ -1,4 +1,5 @@
 // Starting point for the application
+require('dotenv').config({path:__dirname+"/.env"})
 const express = require('express');
 const bodyParser = require('body-parser');
 const router = require('./main_router');

@@ -1,2 +1,4 @@
 #created this to avoid pushing node files
 /node_modules
+.env
+#database.js
